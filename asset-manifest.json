@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FT-Ecell/static/css/main.80304cf7.css",
+    "main.js": "/FT-Ecell/static/js/main.f05762ce.js",
+    "static/js/453.ed3810f9.chunk.js": "/FT-Ecell/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/FT-Ecell/index.html",
+    "main.80304cf7.css.map": "/FT-Ecell/static/css/main.80304cf7.css.map",
+    "main.f05762ce.js.map": "/FT-Ecell/static/js/main.f05762ce.js.map",
+    "453.ed3810f9.chunk.js.map": "/FT-Ecell/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80304cf7.css",
+    "static/js/main.f05762ce.js"
+  ]
+}
